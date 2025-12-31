@@ -34,7 +34,7 @@
         <Thickness>0.08</Thickness>
         <LERadius>0.01</LERadius>
         <Location>6.299</Location>
-        <AirfoilSection>Square</AirfoilSection>
+        <AirfoilSection>Rounded</AirfoilSection>
         <FX1>0.3</FX1>
         <FX3>0.3</FX3>
       </Fin>
@@ -92,9 +92,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>22.59042</TimetoApogee>
-      <MaxAltitude>14681.71</MaxAltitude>
-      <MaxVelocity>2325.074</MaxVelocity>
+      <TimetoApogee>27.12053</TimetoApogee>
+      <MaxAltitude>19004.5</MaxAltitude>
+      <MaxVelocity>2456.585</MaxVelocity>
       <OptimumWt>0</OptimumWt>
       <OptimumMaxAlt>0</OptimumMaxAlt>
     </Simulation>
