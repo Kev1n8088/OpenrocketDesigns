@@ -6,13 +6,13 @@
       <Length>15.681</Length>
       <Diameter>2.24</Diameter>
       <Shape>Von Karman Ogive</Shape>
-      <BluntRadius>0.01</BluntRadius>
+      <BluntRadius>0.5</BluntRadius>
       <Location>0</Location>
       <Color>Black</Color>
     </NoseCone>
     <BodyTube>
       <PartType>BodyTube</PartType>
-      <Length>38</Length>
+      <Length>40</Length>
       <Diameter>2.24</Diameter>
       <LaunchLugDiameter>0</LaunchLugDiameter>
       <LaunchLugLength>0</LaunchLugLength>
@@ -76,7 +76,7 @@
   <SimulationList>
     <Simulation>
       <SustainerEngine>L1000  (AT)</SustainerEngine>
-      <SustainerLaunchWt>7.75</SustainerLaunchWt>
+      <SustainerLaunchWt>7.9</SustainerLaunchWt>
       <SustainerNozzleDiameter>0</SustainerNozzleDiameter>
       <SustainerCG>35.47</SustainerCG>
       <SustainerIgnitionDelay>0</SustainerIgnitionDelay>
@@ -92,9 +92,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>27.12053</TimetoApogee>
-      <MaxAltitude>19004.5</MaxAltitude>
-      <MaxVelocity>2456.585</MaxVelocity>
+      <TimetoApogee>25.59049</TimetoApogee>
+      <MaxAltitude>16455.58</MaxAltitude>
+      <MaxVelocity>2283.868</MaxVelocity>
       <OptimumWt>0</OptimumWt>
       <OptimumMaxAlt>0</OptimumMaxAlt>
     </Simulation>
