@@ -32,17 +32,17 @@
         <SweepDistance>3.1496</SweepDistance>
         <TipChord>1.378</TipChord>
         <Thickness>0.0787</Thickness>
-        <LERadius>0</LERadius>
+        <LERadius>0.01</LERadius>
         <Location>5.5118</Location>
-        <AirfoilSection>Square</AirfoilSection>
-        <FX1>1</FX1>
-        <FX3>1</FX3>
+        <AirfoilSection>Hexagonal</AirfoilSection>
+        <FX1>0.5</FX1>
+        <FX3>0.5</FX3>
       </Fin>
     </BodyTube>
     <Surface>Rough Camouflage Paint</Surface>
     <CP>0</CP>
-    <ModifiedBarrowman>False</ModifiedBarrowman>
-    <Turbulence>False</Turbulence>
+    <ModifiedBarrowman>True</ModifiedBarrowman>
+    <Turbulence>True</Turbulence>
     <SustainerNozzle>0</SustainerNozzle>
     <Booster1Nozzle>0</Booster1Nozzle>
     <Booster2Nozzle>0</Booster2Nozzle>
@@ -76,9 +76,9 @@
   <SimulationList>
     <Simulation>
       <SustainerEngine>H550  (AT)</SustainerEngine>
-      <SustainerLaunchWt>1.77</SustainerLaunchWt>
+      <SustainerLaunchWt>2.09</SustainerLaunchWt>
       <SustainerNozzleDiameter>0</SustainerNozzleDiameter>
-      <SustainerCG>25.6</SustainerCG>
+      <SustainerCG>24.3</SustainerCG>
       <SustainerIgnitionDelay>0</SustainerIgnitionDelay>
       <Booster1LaunchWt>0</Booster1LaunchWt>
       <Booster1SeparationDelay>0</Booster1SeparationDelay>
@@ -92,9 +92,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>15.04025</TimetoApogee>
-      <MaxAltitude>5463.407</MaxAltitude>
-      <MaxVelocity>1299.068</MaxVelocity>
+      <TimetoApogee>16.12027</TimetoApogee>
+      <MaxAltitude>5832.035</MaxAltitude>
+      <MaxVelocity>1120.086</MaxVelocity>
       <OptimumWt>0</OptimumWt>
       <OptimumMaxAlt>0</OptimumMaxAlt>
     </Simulation>
